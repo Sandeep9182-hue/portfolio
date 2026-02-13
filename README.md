@@ -110,4 +110,11 @@ CGPA: **8.79**
 
 ---
 
+
+
+#Home Page 
+
+<img width="1689" height="827" alt="{67757150-A6BF-477E-937D-A834DCCED907}" src="https://github.com/user-attachments/assets/82560b78-0b6b-4bbe-bf32-a170a194601e" />
+
+
 ⭐ *Thank you for visiting my GitHub portfolio. I am open to entry-level opportunities and eager to contribute to real-world projects.*
